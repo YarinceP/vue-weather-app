@@ -8,6 +8,7 @@ Vue weather app es un pequeno proyecto web desarrollado con las siguientes tecno
 - [Vue Js](https://vuejs.org/).
 - [Moment Js](https://momentjs.com/).
 - [Tailwindcss](https://tailwindcss.com/).
+- [Algolia](https://www.algolia.com/).
 
 ![](public/images/capture_1.png)
 
